@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0:
+    font-family: georgia
+    font-size: 18px;
+    line-height: 150%;
+    color: black;
+    background: white;
+}
+
+header  {
+    background: black;
+}
+
+hi {
+    padding: 20px o;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: white; 
+    text-align: center
+}
+
+h2 {
+    font-sized: 24px;
+}
+
+.container {
+    width: 1024
+}
+
+#main-bio, #contact-info, #bio-image {
+    float: left
+}
+
+#main-bio {
+    width: 70th
+}
+
+#contact-info {
+    width:30%;
+}
+
